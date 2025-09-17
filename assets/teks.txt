@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pinangan ID</title>
+	<atom:link href="https://pinangan.id/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pinangan.id</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Sep 2025 07:51:53 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://pinangan.id/wp-content/uploads/2025/03/cropped-LOGO-DIGIMO-150x150.webp</url>
+	<title>Pinangan ID</title>
+	<link>https://pinangan.id</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#UW20250902518</title>
+		<link>https://pinangan.id/heri-amanda/</link>
+					<comments>https://pinangan.id/heri-amanda/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 07:43:57 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/heri-amanda/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/heri-amanda/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>#UW20250902516</title>
+		<link>https://pinangan.id/andesyah-sukeysi/</link>
+					<comments>https://pinangan.id/andesyah-sukeysi/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 07:41:54 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/andesyah-sukeysi/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/andesyah-sukeysi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>#UW20250902525</title>
+		<link>https://pinangan.id/monic-rahman/</link>
+					<comments>https://pinangan.id/monic-rahman/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 06:59:08 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/monic-rahman/</guid>
+
+					<description><![CDATA[The Wedding of &#160; Dear Buka Undangan The Wedding of &#160; &#160; We&#8217;re Getting Married Dengan mohon rahmat dan ridho Allah SWT yang telah ciptakan Makhluk-nya secara berpasang-pasangan, Kami bermaksud menyelenggarakan pernikahan kami Tuhan membuat segala sesuatu indah pada waktunya. Indah saat Dia mempertemukan, indah saat Dia menumbuhkan kasih, dan indah saat Dia mempersatukan putra-putri [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/monic-rahman/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/03/LAGU-23Vrb042W.mp3" length="2730892" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902530</title>
+		<link>https://pinangan.id/hesti-wawang/</link>
+					<comments>https://pinangan.id/hesti-wawang/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 06:57:24 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/hesti-wawang/</guid>
+
+					<description><![CDATA[&#160; Dear &#160; &#160; Wedding Invitation &#160; Kepada Yth: Buka Undangan The Wedding of &#160; &#160; &#160; &#160; We Found Love &#8220;Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/hesti-wawang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/05/utomp3.com-Westlife-I-Wanna-Grow-Old-with-You-Official-Audio-1.mp3" length="3987885" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902534</title>
+		<link>https://pinangan.id/ferzan/</link>
+					<comments>https://pinangan.id/ferzan/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 06:55:40 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/ferzan/</guid>
+
+					<description><![CDATA[Walimatul Aqiqah &#160; Dear Buka Undangan &#160; &#160; An-Nahl · Ayat 72 &#8220;Allah menjadikan bagimu pasangan (suami atau istri) dari jenis kamu sendiri, menjadikan bagimu dari pasanganmu anak-anak dan cucu-cucu, serta menganugerahi kamu rezeki yang baik-baik. Mengapa terhadap yang batil mereka beriman, sedangkan terhadap nikmat Allah mereka ingkar?&#8221; &#160; Putra Pertama dari :Bapak Muh Abdul [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/ferzan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/09/ASSHOLATU-ALANNABI-الصلاة-على-النبي-SABYAN.mp3" length="6123448" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902536</title>
+		<link>https://pinangan.id/oktavia-rizky/</link>
+					<comments>https://pinangan.id/oktavia-rizky/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 06:54:25 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/oktavia-rizky/</guid>
+
+					<description><![CDATA[&#160; Dear &#160; &#160; Wedding Invitation &#160; Kepada Yth: Buka Undangan The Wedding of &#160; &#160; &#160; &#160; We Found Love &#8220;Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/oktavia-rizky/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/06/Tiara-Andini-Arsy-Widianto-Lagu-Pernikahan-Kita-cut-0.10-dagger11.mp3" length="4173646" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902539</title>
+		<link>https://pinangan.id/herliana-geovanny/</link>
+					<comments>https://pinangan.id/herliana-geovanny/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 06:53:21 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/herliana-geovanny/</guid>
+
+					<description><![CDATA[THE WEDDING OF &#160; Wedding Invitation &#160; &#160; Dear Buka Undangan The Wedding of &#160; &#160; Dan salah satu tanda kekuasaan-Nya adalah Dia menciptakan untuk kamu pasangan-pasangan dari jenis kamu sendiri agar kamu mendapat kenyamanan di dalamnya. Dan Dia menjadikan di antara kamu kasih sayang dan kasih sayang. Sesungguhnya pada yang demikian itu terdapat tanda-tanda [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/herliana-geovanny/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/03/Lagu-Snap-Luxury-Ariana-Grande-intro-end-of-the-world.mp3" length="1285570" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902513</title>
+		<link>https://pinangan.id/karina-adam/</link>
+					<comments>https://pinangan.id/karina-adam/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 06:02:44 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/karina-adam/</guid>
+
+					<description><![CDATA[&#160; &#160; Karina &#038; Nathan Dear Open Invitation The Wedding of &#160; &#160; &#8220;Dan di antara tanda-tanda kekuasaan-Nya diciptakan-Nya untukmu pasangan hidup dari jenismu sendiri supaya kamu dapat ketenangan hati dan dijadikannya kasih sayang di antara kamu. Sesungguhnya yang demikian menjadi tanda-tanda kebesaran-Nya bagi orang-orang yang berpikir. &#8220; Q.S. Ar &#8211; Rum : 21 &#8220;Demikianlah [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/karina-adam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/05/Kina-Grannis-Cant-Help-Falling-In-Love-From-Crazy-Rich-Asians-mp3cut.net_.mp3" length="7853799" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902512</title>
+		<link>https://pinangan.id/hani-adrian/</link>
+					<comments>https://pinangan.id/hani-adrian/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 05:59:49 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/hani-adrian/</guid>
+
+					<description><![CDATA[The Wedding of &#160; Dear Buka Undangan The Wedding of &#160; &#160; QS. Ar-Rum Ayat 21 &#8220;Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/hani-adrian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/06/Bagas-Ran-Cinta-Terakhirku-Official-Lyric-Video.mp3" length="5599954" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>#UW20250902506</title>
+		<link>https://pinangan.id/wanda-hayati/</link>
+					<comments>https://pinangan.id/wanda-hayati/#respond</comments>
+		
+		<dc:creator><![CDATA[Dagger 13]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 05:58:35 +0000</pubDate>
+				<category><![CDATA[Pesanan]]></category>
+		<guid isPermaLink="false">https://pinangan.id/wanda-hayati/</guid>
+
+					<description><![CDATA[The Wedding of &#160; Dear Buka Undangan The Wedding of &#160; &#160; &#8220;Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir.&#8221; [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://pinangan.id/wanda-hayati/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://pinangan.id/wp-content/uploads/2025/06/Batas-Senja-Nanti-Kita-Seperti-Ini-Official-Music-Video.mp3" length="5758317" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>
